@@ -1,3 +1,4 @@
+# student information
 """
 addressbook.py
 A Program to Collect Information on Contacts
@@ -6,12 +7,12 @@ Version Created: 01-13-2022
 
 """
 # ......................................All rights received.................................................
-
+ # introduction
 print(".....................................")
-print("\nCONTACT TRACING ")
-print("PROGRAMMED BY:")
-print("Ireanne Omega")
-print("Version Created: 02-28-2022")
+print("----CONTACT FlIGHT TRACKER ---")
+print("Note: This is mandatory for all")
+print("travelers entering any countries.")
+print("---PLEASE FILL UP ACCORDINGLY---")
 print(".....................................")
 
 # ...L I S T & V A R I A B L E S...........................................................................
