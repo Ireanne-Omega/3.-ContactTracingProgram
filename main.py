@@ -31,7 +31,7 @@ def contact_tracking():
 # Display Main Menu
 def menu():
     print("\n")
-    print('' * 10, "CONTACT TRACING PROGRAM", '' * 10)
+    print('' * 5, "CONTACT TRACING PROGRAM", '' * 5)
     print("What would you like to do?")
     print("[1] Add Contact")
     print("[2] Search Contact")
